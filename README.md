@@ -1,3 +1,7 @@
 # Learn about express
 
-First commit, no much to say
+<p>算是知道最最基本如何来路由跟引用文件了</p>
+
+今后需要做的事情：
+* [ ] 不知道，需要想
+* [ ] 不知道，需要想
